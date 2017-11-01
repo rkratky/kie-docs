@@ -1,7 +1,7 @@
-[[_chap_introduction]]
+[#_chap_introduction]
 = Introduction
 
-[[_jboss_brms]]
+[#_jboss_brms]
 
 include::about-product-con.adoc[leveloffset=+1]
 

@@ -1,4 +1,4 @@
-[[_chap_examples]]
+[#_chap_examples]
 = Examples
 
 

@@ -1,4 +1,4 @@
-[[_chap_business_central]]
+[#_chap_business_central]
 
 include::business-central-con.adoc[]
 

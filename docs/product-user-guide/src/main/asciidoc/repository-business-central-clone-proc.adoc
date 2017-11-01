@@ -1,4 +1,4 @@
-[[repository_business_central_clone_proc]]
+[#repository_business_central_clone_proc]
 
 = Cloning a Repository in Business Central
 

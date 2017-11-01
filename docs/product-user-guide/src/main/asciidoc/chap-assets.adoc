@@ -1,4 +1,4 @@
-[[_chap_assets]]
+[#_chap_assets]
 
 include::assets-con.adoc[]
 

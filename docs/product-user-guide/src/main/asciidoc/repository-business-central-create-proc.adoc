@@ -1,4 +1,4 @@
-[[repository_business_central_create_proc]]
+[#repository_business_central_create_proc]
 
 = ⁠Creating a Repository in Business Central
 
