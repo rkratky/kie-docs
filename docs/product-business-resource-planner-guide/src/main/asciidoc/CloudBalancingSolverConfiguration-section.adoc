@@ -1,4 +1,4 @@
-[[cloudBalancingSolverConfiguration]]
+[#cloudBalancingSolverConfiguration]
 = Solver Configuration
 :imagesdir: ../..
 

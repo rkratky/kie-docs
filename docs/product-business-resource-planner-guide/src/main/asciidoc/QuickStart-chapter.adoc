@@ -1,4 +1,4 @@
-[[quickStart]]
+[#quickStart]
 = Getting Started: A Cloud Balancing Demonstration
 :doctype: book
 :imagesdir: ..

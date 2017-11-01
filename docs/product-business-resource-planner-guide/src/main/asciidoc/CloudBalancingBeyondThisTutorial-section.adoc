@@ -1,4 +1,4 @@
-[[cloudBalancingBeyondThisTutorial]]
+[#cloudBalancingBeyondThisTutorial]
 = Beyond this Tutorial
 :imagesdir: ../..
 

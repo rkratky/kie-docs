@@ -1,4 +1,4 @@
-[[useCasesAndExamples]]
+[#useCasesAndExamples]
 = Use Cases and Examples
 :doctype: book
 :imagesdir: ..

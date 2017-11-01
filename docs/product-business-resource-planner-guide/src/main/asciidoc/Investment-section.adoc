@@ -1,8 +1,8 @@
-[[investment]]
+[#investment]
 = Investment Asset Class Allocation (Portfolio Optimization)
 
 
-[[investmentProblemDescription]]
+[#investmentProblemDescription]
 == Problem Description
 
 Decide the relative quantity to invest in each asset class.
@@ -19,7 +19,7 @@ Soft constraints:
 * Maximize expected return.
 
 
-[[investmentProblemSize]]
+[#investmentProblemSize]
 == Problem Size
 
 [source,options="nowrap"]

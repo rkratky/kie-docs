@@ -1,4 +1,4 @@
-[[evolutionaryAlgorithms]]
+[#evolutionaryAlgorithms]
 = Evolutionary Algorithms
 :doctype: book
 :imagesdir: ..
@@ -8,19 +8,19 @@
 :experimental:
 
 
-[[evolutionaryAlgorithmsOverview]]
+[#evolutionaryAlgorithmsOverview]
 == Overview
 
 Evolutionary Algorithms work on a population of solutions and evolve that population.
 
 
-[[evolutionaryStrategies]]
+[#evolutionaryStrategies]
 == Evolutionary Strategies
 
 This algorithm has not been implemented yet.
 
 
-[[geneticAlgorithms]]
+[#geneticAlgorithms]
 == Genetic Algorithms
 
 This algorithm has not been implemented yet.

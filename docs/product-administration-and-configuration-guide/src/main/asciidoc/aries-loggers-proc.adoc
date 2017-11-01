@@ -1,6 +1,6 @@
 
-[[loggers]]
-[[_aries_loggers_proc]]
+[#loggers]
+[#_aries_loggers_proc]
 = Configuring Loggers
 
 {PRODUCT} supports the following loggers:

@@ -1,8 +1,8 @@
-[[cheapTimeScheduling]]
+[#cheapTimeScheduling]
 = Cheap Time Scheduling
 
 
-[[cheapTimeSchedulingProblemDescription]]
+[#cheapTimeSchedulingProblemDescription]
 == Problem Description
 
 Schedule all tasks in time and on a machine to minimize power cost.
@@ -29,7 +29,7 @@ Soft constraints (addendum to the original problem definition):
 The problem is defined by http://iconchallenge.insight-centre.org/[the ICON challenge].
 
 
-[[cheapTimeSchedulingProblemSize]]
+[#cheapTimeSchedulingProblemSize]
 == Problem Size
 
 [source,options="nowrap"]

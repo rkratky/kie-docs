@@ -1,8 +1,8 @@
-[[meetingScheduling]]
+[#meetingScheduling]
 = Meeting Scheduling
 
 
-[[meetingSchedulingProblemDescription]]
+[#meetingSchedulingProblemDescription]
 == Problem Description
 
 Assign each meeting to a starting time and a room.
@@ -22,7 +22,7 @@ Soft constraints:
 * Sooner rather than later: Schedule all meetings as soon as possible.
 
 
-[[meetingSchedulingProblemSize]]
+[#meetingSchedulingProblemSize]
 == Problem Size
 
 [source,options="nowrap"]
